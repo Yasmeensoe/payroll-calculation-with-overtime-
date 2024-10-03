@@ -24,13 +24,21 @@ A text file payroll_info.txt will be created with all the payroll details.
 If your hourly wage is $30 and you worked the following hours for 5 days:
 
 Day 1: 10 hours
+
 Day 2: 10 hours
+
 Day 3: 10 hours
+
 Day 4: 8 hours
+
 Day 5: 5 hours
+
 You will have worked a total of 43 hours. Since 40 hours is the normal workweek:
 
 Regular pay: 40 * $30 = $1200
+
 Overtime pay: 3 * $30 * 1.5 = $135
+
 Total pay: $1200 + $135 = $1335
+
 The payroll_info.txt file will include:
