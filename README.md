@@ -21,6 +21,7 @@ The program will display the total hours, regular pay, overtime pay (if applicab
 A text file payroll_info.txt will be created with all the payroll details.
 
 ** Example **
+
 If your hourly wage is $30 and you worked the following hours for 5 days:
 
 Day 1: 10 hours
